@@ -1,0 +1,8 @@
+{
+  "name": "englishnow",
+  "description": "Autoaprendizaje interactivo de inglés mediante lecturas guiadas, ejercicios de pronunciación por voz y seguimiento de progreso en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">englishnow</string>
+    <string name="nav_lessons">Lecciones</string>
+    <string name="nav_pronunciation">Pronunciación</string>
+    <string name="nav_vocabulary">Vocabulario</string>
+    <string name="nav_progress">Progreso</string>
+</resources>
